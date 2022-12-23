@@ -1,0 +1,14 @@
+name: foodie
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+prefix: C:\Users\lenka\.conda\envs\foodie
+[0m[0m
