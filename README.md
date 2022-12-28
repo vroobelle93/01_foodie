@@ -33,6 +33,7 @@ So yeah, pretty productive.
  - Download repo files,
  - Download the datasets from: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions,
  - Create Conda environment using environment.yml file,
+ - Run the notebook - execution takes 3-4 minutes,
 
 ## Possible upgrades
 If needed, the project could be upgraded in some areas:
