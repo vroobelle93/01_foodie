@@ -1,5 +1,6 @@
 # ignore archives
 **/archive
+**/.idea
 
 # ignore downloaded .zip file
 *.zip
